@@ -21,17 +21,17 @@ h2 {
 
 div {
   margin: 0;
-  border-color: #dc3efc #4c00ff #dc3efc #4c00ff;
+  border-color: #52f1bc;
   border-style: solid;
-  border-width: 7.5px;
-  border-radius: 11px; }
+  border-width: 5px;
+  border-radius: 5px; }
 
 a {
   color: #4c00ff; }
 
 a:link,
 a:visited {
-  color: #ff00f2; }
+  color: #ffb223; }
 
 a:hover {
   text-decoration: none; }
